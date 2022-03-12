@@ -4,6 +4,7 @@ Here, I will share best  C programming resources to learn C programming language
 *
 *
 
+
 ### Main Topics
 
 In this resources you will find following C programming topics
@@ -22,22 +23,27 @@ In this resources you will find following C programming topics
 - File Handling in C
 
 
+
+
 ### Topics Breakdown
 
 | Topic | Contents |
 | ------ | ------ |
-| Basics in C | Programming Examples with explaination solution and output|
-| If-else in C | Programming Examples with explaination solution and output|
+| Basics in C | Programming Examples with explanation, solution and output|
+| If-else in C | Programming Examples with explanation, solution and output|
 | Loops in C | Programming Examples with solution and output|
-| Arrays in C | Programming Examples with explaination solution and output|
-| Patterns in C | Contains Star and Number Pattern Examples with explaination solution and output|
-| Series in C | Contains Number Series Programming Examples with explaination solution and output|
-| Strings in C | Strings Programming Examples with explaination solution and output|
-| Switch-case in C | Programming Examples with explaination solution and output|
+| Arrays in C | Programming Examples with explanation, solution and output|
+| Patterns in C | Contains Star and Number Pattern Examples with explanation, solution and output|
+| Series in C | Contains Number Series Programming Examples with explanation, solution and output|
+| Strings in C | Strings Programming Examples with explanation, solution and output|
+| Switch-case in C | Programming Examples with explanation, solution and output|
 | Functions in C | Programming Examples with solution and output|
-| Pointers in C | Programming Examples with explaination solution and output|
-| Bitweise Operators in C | Programming Examples with explaination solution and output|
-| Files in C | Programming Examples with explaination solution and output|
+| Pointers in C | Programming Examples with explanation, solution and output|
+| Bitweise Operators in C | Programming Examples with explanation, solution and output|
+| Files in C | Programming Examples with explanation, solution and output|
+
+
+
 
 
 
@@ -58,6 +64,8 @@ This exercises will help beginners to learn C programming from basics with lot o
 - [Bitwise Operators in C](https://www.codeforhunger.com/2020/04/bitwise-operators-in-c-exercises-and.html)
 - [File Handling in C](https://www.codeforhunger.com/2020/09/file-handling-in-c-practical%20examples.html)
  
+
+
 
 ### More Resources
 
