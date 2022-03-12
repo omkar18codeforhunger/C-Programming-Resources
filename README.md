@@ -22,8 +22,7 @@ In this resources you will find following C programming topics
 - Bitwise Operators in C
 - File Handling in C
 
-
-
+__
 
 ### Topics Breakdown
 
@@ -45,7 +44,7 @@ In this resources you will find following C programming topics
 
 
 
-
+__
 
 
 ### C Programming Exercises and Solutions
@@ -65,7 +64,7 @@ This exercises will help beginners to learn C programming from basics with lot o
 - [File Handling in C](https://www.codeforhunger.com/2020/09/file-handling-in-c-practical%20examples.html)
  
 
-
+__
 
 ### More Resources
 
